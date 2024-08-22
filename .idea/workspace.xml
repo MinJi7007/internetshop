@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="421a0749-01e8-4b71-8c4d-31d20e31fc9c" name="Changes" comment="Создала первую страницу">
-      <change afterPath="$PROJECT_DIR$/internetshop/shop/templates/index.html" afterDir="false" />
+    <list default="true" id="421a0749-01e8-4b71-8c4d-31d20e31fc9c" name="Changes" comment="добавила товары">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internetshop/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/internetshop/shop/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internetshop/shop/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/internetshop/shop/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724259744555</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="добавила товары">
+      <option name="closed" value="true" />
+      <created>1724343009372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724343009372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создала первую страницу" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создала первую страницу" />
+    <MESSAGE value="добавила товары" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавила товары" />
   </component>
 </project>

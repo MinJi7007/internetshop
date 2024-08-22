@@ -1,19 +1,53 @@
-    <h1>ЧудоМагазин<h/1>
+    <style>
+        * {
+            font-family Arial;
+        }
+        h1 {
+        font-size: 77px;
+    }
+        img {
+        width: 170px;
+        height: 170px;
+        }
+
+
+        .product {
+        border: 3px black solid;
+        display: flex;
+        }
+
+        h2 {
+        width: 300px;
+        }
+
+        button {
+        margin-left: auto;
+        }
+    </style>
+
+
+<h1>ЧудоМагазин</h1>
 
     <a href="/">Главная</a>
     <a href="/products">Товары</a>
     <a href="/aboutus">О магазине</a>
 
-    <div style="border: 3px black solid">
-    <h5>PlayStation5</h5>
-    <img src="https://pushminer.ru/image/cache/catalog/asicsPUSHMINER/konsoli/sony_playstation_5-650x650.jpg">
+    <div class = "product">
+        <img src="https://pushminer.ru/image/cache/catalog/asicsPUSHMINER/konsoli/sony_playstation_5-650x650.jpg">
+  <div>
+    <h2>PlayStation5</h2>
     <p>PlayStation - это игровая приставка</p>
+  </div>
+        <button>Купить</button>
     </div>
 
 
-    <div style="border: 3px black solid">
-    <h5>наушники</h5>
-    <img src="https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/AF/0B/b2c0c87a-edd0-48ba-97b1-e774a9d56862.jpg">
-    <p>наушники - это  устройство для прослушивания звуковой информации</p>
+    <div class="product">
+        <img src="https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/AF/0B/b2c0c87a-edd0-48ba-97b1-e774a9d56862.jpg">
+    <div>
+        <h2>наушники</h2>
+        <p>наушники - это  устройство для прослушивания звуковой информации</p>
     </div>
-""")
+        <button>Купить</button>
+    </div>
+        """)
