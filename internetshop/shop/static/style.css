@@ -1,0 +1,37 @@
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Marck+Script&display=swap');
+
+    html, body {
+    background: url('https://i.pinimg.com/originals/58/f5/ce/58f5ce60649f7cd7f069d8837ef86f1b.png');
+    }
+        * {
+            font-family: "Marck Script";
+        }
+        h1 {
+        font-size: 77px;
+    color: #14dadd;
+    font-style: italic;
+    }
+        img {
+        width: 170px;
+        height: 170px;
+        }
+
+
+        .product {
+        border: 3px black solid;
+        display: flex;
+        margin-top: 37px;
+        background-color: #d4d9d8;
+        border-radius: 7px;
+        padding: 10px;
+        }
+
+        h2 {
+        width: 300px;
+               }
+
+        button {
+        margin-left: auto;
+        }
+    </style>

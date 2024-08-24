@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="421a0749-01e8-4b71-8c4d-31d20e31fc9c" name="Changes" comment="Изменила карточку продукта.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internetshop/shop/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/internetshop/shop/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="421a0749-01e8-4b71-8c4d-31d20e31fc9c" name="Changes" comment="Добавила стили." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -78,15 +78,39 @@
       <option name="project" value="LOCAL" />
       <updated>1724346364828</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавила стили.">
+      <option name="closed" value="true" />
+      <created>1724422619902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724422619902</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -96,6 +120,7 @@
     <MESSAGE value="Создала первую страницу" />
     <MESSAGE value="добавила товары" />
     <MESSAGE value="Изменила карточку продукта." />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменила карточку продукта." />
+    <MESSAGE value="Добавила стили." />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавила стили." />
   </component>
 </project>
